@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d372cfd-7d8a-4c87-814e-231ff506d484" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/assets/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/assets/path.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/components/Aside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/components/Tabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/views/Manage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/views/dis_manage/DisManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/views/dis_manage/Distributing.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribute-system/distribution/src/views/dis_manage/DistributionSites.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/distribute-system/distribution/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/distribute-system/distribution/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/distribute-system/distribution/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/distribute-system/distribution/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/distribute-system/distribution/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/distribute-system/distribution" />
+  </component>
+  <component name="ProjectId" id="28KU5tzlKkBSo2C28LBWZVBEmYg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d372cfd-7d8a-4c87-814e-231ff506d484" name="Default Changelist" comment="" />
+      <created>1650964591909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650964591909</updated>
+      <workItem from="1650964593413" duration="88000" />
+      <workItem from="1651136081011" duration="891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
